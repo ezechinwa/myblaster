@@ -1,0 +1,23 @@
+{
+  "name": "emailBlaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.3",
+    "body-parser": "^1.18.3",
+    "event-stream": "^3.3.4",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "split": "^1.0.1"
+  },
+  "devDependencies": {
+    "jfile": "^1.1.12"
+  }
+}
